@@ -55,7 +55,7 @@ And then:
       
 After that just install the local dependencies, run migrations, and start the server.
 
-# {{ craigs_list | Django Craigs List }}
+# craigs_list | Django Craigs List
 
 # Getting Started
 
